@@ -1,1 +1,1 @@
-web: gunicorn appCadastroresultado.wsgi
+web: gunicorn teste.wsgi
